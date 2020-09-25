@@ -10,7 +10,7 @@ This repository contains a the docker configuration files for the base-repo serv
 
 ## Building and Startup
 
-Typically, there is no need for locally building images as all version are accessible via [DockerHub](https://hub.docker.com/).
+Typically, there is no need for locally building images as all version are accessible via [DockerHub](https://hub.docker.com/). ([kitdm/base-repo](https://hub.docker.com/r/kitdm/base-repo))
 
 Running for example a base-repo instance can be achieved as follows:
 
