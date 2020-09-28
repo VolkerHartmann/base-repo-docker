@@ -1,4 +1,5 @@
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/kitdm/base-repo)
+![Docker Image Version (latest by date)](https://img.shields.io/docker/v/kitdm/base-repo)
 
 # Docker Configuration - base-repo
 
